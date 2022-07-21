@@ -1,7 +1,9 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Navbar ({ currentPage, handlePageChange}) {
   return(
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <ul className='nav nav-tabs'>
       <li className='nav-item'>
     <a 
@@ -43,6 +45,7 @@ function Navbar ({ currentPage, handlePageChange}) {
     </a>
     </li>
     </ul>
+    </nav>
   );
 }
 
