@@ -1,7 +1,7 @@
 # react_Portfolioworld
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
 
-This rendering of my portfolio is done using React. It accomplishes the use of a React to create a Single-Page applicatiion that uses a navbar to populate different components on the page. We make this happpen with component reuse and consditional rendering
+This rendering of my portfolio uses React to create a Single-Page application that implements a navbar to populate different components on the page. We make this happen with component reuse and conditional rendering
 
 ## Deployed App
 Deployed using GitHub pages
