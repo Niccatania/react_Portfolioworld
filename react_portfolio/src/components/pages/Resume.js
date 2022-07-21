@@ -1,11 +1,11 @@
 import React from "react";
-import Header from "../Header";
+import DevResume from "../assets/devResume.pdf"
 
 export default function Resume(){
     return(
         <div>
-            <h2>Resume Link </h2>
-            <p> I am proficient in Javascript and React as you can see</p>
+            <a href={DevResume}>My Resume</a>
+            <p> I am proficient in Javascript, Node, React, Mysql, and Mongo!</p>
 
         </div>
     )

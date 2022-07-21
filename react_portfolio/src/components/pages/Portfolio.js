@@ -6,8 +6,8 @@ export default function Portfolio(){
         <div>
             <h1> Portfolio</h1>
             <p>This is my Work</p>
-            < Project />
-            < Project />
+< Project />
+            
         </div>
     );
 }
