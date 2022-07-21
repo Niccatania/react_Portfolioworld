@@ -4,7 +4,7 @@ import pwa from './assets/pwa.png'
 import Calendar from './assets/Calendar.png'
 import Dinner from './assets/DDscreenshot.png'
 import Note from './assets/noteTaker.png'
-import Move from './assets/profile.jpeg'
+import Move from './assets/main_page.png'
 import Weather from './assets/weatherAPP.png'
 
 export default function Project() {
