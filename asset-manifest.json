@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/react_Portfolioworld/static/css/main.fa95dbb9.css",
-    "main.js": "/react_Portfolioworld/static/js/main.c2908551.js",
+    "main.js": "/react_Portfolioworld/static/js/main.253736a5.js",
     "static/js/787.a2cb61a6.chunk.js": "/react_Portfolioworld/static/js/787.a2cb61a6.chunk.js",
+    "static/media/DDscreenshot.png": "/react_Portfolioworld/static/media/DDscreenshot.04ed30b68f3fef516a91.png",
+    "static/media/pwa.png": "/react_Portfolioworld/static/media/pwa.ce26bc90b9374c83322c.png",
+    "static/media/noteTaker.png": "/react_Portfolioworld/static/media/noteTaker.2ba1854da3aa94f4b6e2.png",
     "static/media/profile.jpeg": "/react_Portfolioworld/static/media/profile.a211977b28fae1197546.jpeg",
     "static/media/devResume.pdf": "/react_Portfolioworld/static/media/devResume.d9947b0d2477784247ff.pdf",
+    "static/media/weatherAPP.png": "/react_Portfolioworld/static/media/weatherAPP.699e8b34ffeb081815ce.png",
+    "static/media/Calendar.png": "/react_Portfolioworld/static/media/Calendar.53c899a9d76b7fd12f38.png",
     "index.html": "/react_Portfolioworld/index.html",
     "main.fa95dbb9.css.map": "/react_Portfolioworld/static/css/main.fa95dbb9.css.map",
-    "main.c2908551.js.map": "/react_Portfolioworld/static/js/main.c2908551.js.map",
+    "main.253736a5.js.map": "/react_Portfolioworld/static/js/main.253736a5.js.map",
     "787.a2cb61a6.chunk.js.map": "/react_Portfolioworld/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa95dbb9.css",
-    "static/js/main.c2908551.js"
+    "static/js/main.253736a5.js"
   ]
 }
